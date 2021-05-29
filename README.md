@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @zivong
-- 👀 I’m interested in blogging, coding, reading...
-- 🌱 I’m currently learning mathematics, physics, computer science...
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me: [My blog](https://zivong.blog/), [GitHub](https://github.com/zivong), [Twitter](https://twitter.com/zivong91).
+[![Zivong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zivong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-zivong/zivong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zivong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
